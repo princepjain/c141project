@@ -1,0 +1,31 @@
+.heading{
+    width: 100%;
+    text-align: left;
+     margin-bottom: 5px;
+}
+
+.heading-button{
+    float: right;
+}
+
+.heading-h1{
+    display: inline;
+    font-size: 22px;
+}
+
+
+
+#footer{
+    line-height: 2;
+    background-color: aliceblue;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    font-size: large;
+}
+
+canvas{
+    border-width: 5px;
+    border-color: black;
+    border-style: ridge;
+}
